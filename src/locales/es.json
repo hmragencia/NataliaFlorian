@@ -1,0 +1,110 @@
+{
+  "header": {
+    "home": "Inicio",
+    "about": "Sobre Natalia",
+    "services": "Servicios",
+    "contact": "Contacto",
+    "language": "Idioma",
+    "spanish": "Español",
+    "english": "Inglés",
+    "title": "Natalia Florián"
+  },
+  "hero": {
+    "title": "Explora tu Naturaleza",
+    "subtitle": "Descubre rutas únicas de la mano de Natalia Florián",
+    "buttonReserve": "Reserva tu Caminata",
+    "buttonServices": "Ver Servicios"
+  },
+  "about": {
+    "title": "Sobre Natalia Florián",
+    "paragraph1": "Natalia es una apasionada geógrafa y guía profesional con años de experiencia explorando y compartiendo las maravillas naturales de Colombia. Su profundo conocimiento del territorio, combinado con su entusiasmo por la aventura, hacen de cada caminata una experiencia inolvidable.",
+    "paragraph2": "Comprometida con la conservación y el turismo sostenible, Natalia te guiará por senderos espectaculares, revelando los secretos de la flora, fauna y geología local.",
+    "certification1": "Guía Profesional de Turismo Certificada (RNT activo)",
+    "certification2": "Geógrafa Profesional - Universidad Nacional de Colombia",
+    "certification3": "Especialista en Ecosistemas de Montaña y Páramo"
+  },
+  "services": {
+    "title": "Caminatas Guiadas",
+    "description": "Explora la riqueza natural de Colombia con experiencias diseñadas para conectar con el entorno y aprender de la mano de una experta.",
+    "paramoTrekTitle": "Travesía por el Páramo Encantado",
+    "paramoTrekDescription": "Aventura de altura por ecosistemas únicos.",
+    "paramoTrekDuration": "1 día",
+    "paramoTrekDifficulty": "Medio-Alto",
+    "paramoTrekInterestPoints": ["Frailejones", "Lagunas glaciares", "Avistamiento de cóndores"],
+    "cloudForestHikeTitle": "Aventura en el Bosque de Niebla",
+    "cloudForestHikeDescription": "Sumérgete en la biodiversidad de los bosques andinos.",
+    "cloudForestHikeDuration": "Medio día",
+    "cloudForestHikeDifficulty": "Medio",
+    "cloudForestHikeInterestPoints": ["Orquídeas y bromelias", "Aves endémicas", "Cascadas ocultas"],
+    "coffeeTrailWalkTitle": "Ruta del Café y Montaña",
+    "coffeeTrailWalkDescription": "Descubre los secretos del café colombiano.",
+    "coffeeTrailWalkDuration": "1 día",
+    "coffeeTrailWalkDifficulty": "Bajo-Medio",
+    "coffeeTrailWalkInterestPoints": ["Fincas cafeteras", "Proceso del café", "Degustación"],
+    "durationLabel": "Duración:",
+    "difficultyLabel": "Dificultad:",
+    "interestPointsLabel": "Puntos de interés:",
+    "moreInfoButton": "Más Información",
+    "reserveButton": "Reservar Ahora",
+    "customHikesTitle": "¿Buscas algo diferente?",
+    "customHikesDescription": "Ofrezco caminatas personalizadas para grupos y eventos especiales. ¡Contáctame para planear tu aventura ideal!"
+  },
+  "contact": {
+    "title": "¿Listo para tu Próxima Aventura?",
+    "description": "No esperes más para explorar paisajes increíbles y vivir experiencias únicas. Contáctame directamente por WhatsApp para planificar tu caminata personalizada o resolver cualquier duda.",
+    "button": "Contactar por WhatsApp"
+  },
+  "footer": {
+    "rights": "© {year} Natalia Florián. Todos los derechos reservados.",
+    "developedBy": "Desarrollado con ❤️ por Hostinger Horizons"
+  },
+  "hikeDetail": {
+    "notFoundTitle": "Caminata no encontrada",
+    "notFoundDescription": "Lo sentimos, la caminata que buscas no existe o ha sido movida.",
+    "backToServicesButton": "Volver a Servicios",
+    "adventureDetailsTitle": "Detalles de la Aventura",
+    "durationLabel": "Duración:",
+    "difficultyLabel": "Dificultad:",
+    "altitudeLabel": "Altitud:",
+    "priceLabel": "Precio:",
+    "customizableLabel": "Personalizable para grupos",
+    "whatToBringTitle": "¿Qué llevar?",
+    "includesTitle": "Incluye",
+    "reserveAdventureButton": "¡Quiero reservar esta aventura!",
+    "paramoTrek": {
+      "title": "Travesía por el Páramo Encantado",
+      "fullDescription": "Embárcate en una jornada inolvidable a través del majestuoso Páramo Encantado. Esta caminata te llevará por senderos ancestrales, rodeado de frailejones que parecen guardianes del tiempo y lagunas cristalinas que reflejan el cielo andino. Descubre la resiliencia de este ecosistema único, aprende sobre su importancia hídrica y, con suerte, avista el vuelo del cóndor. Una experiencia que conecta con la esencia de la alta montaña colombiana.",
+      "duration": "1 día (8-9 horas, incluye paradas)",
+      "difficulty": "Medio-Alto (requiere buena condición física)",
+      "altitude": "3.200 - 3.800 msnm",
+      "includes": ["Guianza profesional bilingüe (Español/Inglés)", "Seguro de asistencia médica", "Snack de alta energía", "Interpretación ambiental", "Botiquín de primeros auxilios"],
+      "bring": ["Ropa abrigada en capas (impermeable indispensable)", "Botas de montaña con buen agarre", "Gorra o sombrero, guantes", "Protector solar y labial", "Gafas de sol", "Mínimo 2 litros de agua", "Almuerzo ligero", "Bastones de trekking (opcional)", "Cámara fotográfica"],
+      "price": "180.000 COP por persona (grupos de 4+)"
+    },
+    "cloudForestHike": {
+      "title": "Aventura en el Bosque de Niebla",
+      "fullDescription": "Sumérgete en la magia del Bosque de Niebla, un santuario de biodiversidad donde la vida palpita en cada rincón. Caminaremos entre árboles cubiertos de musgo y orquídeas, cruzaremos arroyos cristalinos y nos maravillaremos con el canto de aves exóticas. Esta ruta es ideal para los amantes de la naturaleza que buscan una conexión profunda con ecosistemas vibrantes y llenos de misterio. Descubre cascadas escondidas y aprende sobre la flora y fauna endémica.",
+      "duration": "Medio día (5-6 horas)",
+      "difficulty": "Medio",
+      "altitude": "1.800 - 2.400 msnm",
+      "includes": ["Guianza especializada en flora y fauna", "Seguro de asistencia médica", "Fruta fresca", "Avistamiento de aves (binoculares compartidos)", "Botiquín de primeros auxilios"],
+      "bring": ["Ropa cómoda y de secado rápido", "Chaqueta impermeable ligera", "Zapatos de trekking o deportivos con buen agarre", "Repelente de insectos (natural preferiblemente)", "Protector solar", "Agua", "Snacks ligeros", "Cámara fotográfica"],
+      "price": "120.000 COP por persona (grupos de 3+)"
+    },
+    "coffeeTrailWalk": {
+      "title": "Ruta del Café y Montaña",
+      "fullDescription": "Experimenta la perfecta combinación de cultura cafetera y paisajes montañosos en esta enriquecedora caminata. Recorreremos senderos que serpentean entre cafetales, aprendiendo sobre el proceso del grano \"de la cereza a la taza\". Disfrutaremos de vistas panorámicas espectaculares y concluiremos con una degustación de café fresco, cultivado localmente. Una jornada para deleitar los sentidos y conocer el corazón de la región cafetera.",
+      "duration": "1 día (6-7 horas, incluye visita a finca)",
+      "difficulty": "Bajo-Medio",
+      "altitude": "1.500 - 2.000 msnm",
+      "includes": ["Guianza cultural y natural", "Seguro de asistencia médica", "Visita a finca cafetera tradicional", "Degustación de café", "Almuerzo típico", "Transporte local (si aplica)", "Botiquín de primeros auxilios"],
+      "bring": ["Ropa ligera y cómoda", "Sombrero o gorra", "Protector solar", "Zapatos cómodos para caminar", "Agua", "Cámara fotográfica", "Dinero extra para comprar café (opcional)"],
+      "price": "150.000 COP por persona (grupos de 2+)"
+    }
+  },
+  "whatsapp": {
+    "buttonTooltip": "Contáctame por WhatsApp",
+    "greetingHike": "Hola Natalia, me gustaría reservar la caminata \"{hikeName}\".",
+    "greetingGeneral": "Hola Natalia, estoy interesado/a en tus servicios de caminatas."
+  }
+}

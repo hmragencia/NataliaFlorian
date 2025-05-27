@@ -1,0 +1,110 @@
+{
+  "header": {
+    "home": "Home",
+    "about": "About Natalia",
+    "services": "Services",
+    "contact": "Contact",
+    "language": "Language",
+    "spanish": "Spanish",
+    "english": "English",
+    "title": "Natalia Florián"
+  },
+  "hero": {
+    "title": "Explore Your Nature",
+    "subtitle": "Discover unique routes with Natalia Florián",
+    "buttonReserve": "Book Your Hike",
+    "buttonServices": "View Services"
+  },
+  "about": {
+    "title": "About Natalia Florián",
+    "paragraph1": "Natalia is a passionate geographer and professional guide with years of experience exploring and sharing the natural wonders of Colombia. Her deep knowledge of the territory, combined with her enthusiasm for adventure, makes every hike an unforgettable experience.",
+    "paragraph2": "Committed to conservation and sustainable tourism, Natalia will guide you through spectacular trails, revealing the secrets of local flora, fauna, and geology.",
+    "certification1": "Certified Professional Tourism Guide (active RNT)",
+    "certification2": "Professional Geographer - National University of Colombia",
+    "certification3": "Specialist in Mountain and Páramo Ecosystems"
+  },
+  "services": {
+    "title": "Guided Hikes",
+    "description": "Explore the natural richness of Colombia with experiences designed to connect with the environment and learn from an expert.",
+    "paramoTrekTitle": "Enchanted Páramo Traverse",
+    "paramoTrekDescription": "High-altitude adventure through unique ecosystems.",
+    "paramoTrekDuration": "1 day",
+    "paramoTrekDifficulty": "Medium-High",
+    "paramoTrekInterestPoints": ["Frailejones", "Glacial lagoons", "Condor sighting"],
+    "cloudForestHikeTitle": "Cloud Forest Adventure",
+    "cloudForestHikeDescription": "Immerse yourself in the biodiversity of the Andean forests.",
+    "cloudForestHikeDuration": "Half day",
+    "cloudForestHikeDifficulty": "Medium",
+    "cloudForestHikeInterestPoints": ["Orchids and bromeliads", "Endemic birds", "Hidden waterfalls"],
+    "coffeeTrailWalkTitle": "Coffee and Mountain Route",
+    "coffeeTrailWalkDescription": "Discover the secrets of Colombian coffee.",
+    "coffeeTrailWalkDuration": "1 day",
+    "coffeeTrailWalkDifficulty": "Low-Medium",
+    "coffeeTrailWalkInterestPoints": ["Coffee farms", "Coffee process", "Tasting"],
+    "durationLabel": "Duration:",
+    "difficultyLabel": "Difficulty:",
+    "interestPointsLabel": "Points of Interest:",
+    "moreInfoButton": "More Information",
+    "reserveButton": "Book Now",
+    "customHikesTitle": "Looking for something different?",
+    "customHikesDescription": "I offer personalized hikes for groups and special events. Contact me to plan your ideal adventure!"
+  },
+  "contact": {
+    "title": "Ready for Your Next Adventure?",
+    "description": "Don't wait any longer to explore incredible landscapes and live unique experiences. Contact me directly via WhatsApp to plan your personalized hike or resolve any questions.",
+    "button": "Contact via WhatsApp"
+  },
+  "footer": {
+    "rights": "© {year} Natalia Florián. All rights reserved.",
+    "developedBy": "Developed with ❤️ by Hostinger Horizons"
+  },
+  "hikeDetail": {
+    "notFoundTitle": "Hike Not Found",
+    "notFoundDescription": "Sorry, the hike you are looking for does not exist or has been moved.",
+    "backToServicesButton": "Back to Services",
+    "adventureDetailsTitle": "Adventure Details",
+    "durationLabel": "Duration:",
+    "difficultyLabel": "Difficulty:",
+    "altitudeLabel": "Altitude:",
+    "priceLabel": "Price:",
+    "customizableLabel": "Customizable for groups",
+    "whatToBringTitle": "What to Bring?",
+    "includesTitle": "Includes",
+    "reserveAdventureButton": "I want to book this adventure!",
+    "paramoTrek": {
+      "title": "Enchanted Páramo Traverse",
+      "fullDescription": "Embark on an unforgettable journey through the majestic Enchanted Páramo. This hike will take you along ancestral trails, surrounded by frailejones that seem like guardians of time and crystal-clear lagoons that reflect the Andean sky. Discover the resilience of this unique ecosystem, learn about its water importance, and hopefully, spot the flight of the condor. An experience that connects with the essence of the Colombian high mountains.",
+      "duration": "1 day (8-9 hours, includes stops)",
+      "difficulty": "Medium-High (requires good physical condition)",
+      "altitude": "3,200 - 3,800 masl",
+      "includes": ["Professional bilingual guide (Spanish/English)", "Medical assistance insurance", "High-energy snack", "Environmental interpretation", "First aid kit"],
+      "bring": ["Warm layered clothing (waterproof essential)", "Hiking boots with good grip", "Cap or hat, gloves", "Sunscreen and lip balm", "Sunglasses", "Minimum 2 liters of water", "Light lunch", "Trekking poles (optional)", "Camera"],
+      "price": "180,000 COP per person (groups of 4+)"
+    },
+    "cloudForestHike": {
+      "title": "Cloud Forest Adventure",
+      "fullDescription": "Immerse yourself in the magic of the Cloud Forest, a biodiversity sanctuary where life pulses in every corner. We will walk among trees covered with moss and orchids, cross crystal-clear streams, and marvel at the song of exotic birds. This route is ideal for nature lovers seeking a deep connection with vibrant ecosystems full of mystery. Discover hidden waterfalls and learn about endemic flora and fauna.",
+      "duration": "Half day (5-6 hours)",
+      "difficulty": "Medium",
+      "altitude": "1,800 - 2,400 masl",
+      "includes": ["Specialized flora and fauna guide", "Medical assistance insurance", "Fresh fruit", "Bird watching (shared binoculars)", "First aid kit"],
+      "bring": ["Comfortable and quick-drying clothing", "Light waterproof jacket", "Trekking or sports shoes with good grip", "Insect repellent (natural preferably)", "Sunscreen", "Water", "Light snacks", "Camera"],
+      "price": "120,000 COP per person (groups of 3+)"
+    },
+    "coffeeTrailWalk": {
+      "title": "Coffee and Mountain Route",
+      "fullDescription": "Experience the perfect combination of coffee culture and mountain landscapes on this enriching hike. We will walk trails that wind through coffee plantations, learning about the bean process \"from cherry to cup.\" We will enjoy spectacular panoramic views and conclude with a tasting of fresh, locally grown coffee. A journey to delight the senses and get to know the heart of the coffee region.",
+      "duration": "1 day (6-7 hours, includes farm visit)",
+      "difficulty": "Low-Medium",
+      "altitude": "1,500 - 2,000 masl",
+      "includes": ["Cultural and natural guide", "Medical assistance insurance", "Visit to a traditional coffee farm", "Coffee tasting", "Typical lunch", "Local transport (if applicable)", "First aid kit"],
+      "bring": ["Light and comfortable clothing", "Hat or cap", "Sunscreen", "Comfortable walking shoes", "Water", "Camera", "Extra money to buy coffee (optional)"],
+      "price": "150,000 COP per person (groups of 2+)"
+    }
+  },
+  "whatsapp": {
+    "buttonTooltip": "Contact me on WhatsApp",
+    "greetingHike": "Hello Natalia, I would like to book the \"{hikeName}\" hike.",
+    "greetingGeneral": "Hello Natalia, I am interested in your hiking services."
+  }
+}
